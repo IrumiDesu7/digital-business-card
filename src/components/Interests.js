@@ -3,8 +3,8 @@ export default function Interests() {
     <div className='interests'>
       <h3 className='interests-title'>Interests</h3>
       <p className='interests-paragraph'>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Coffee lover. I enjoy coding so freaking much. Love learning new stuff
+        especially in tech! This static page is my first ReactJS work.
       </p>
     </div>
   );
