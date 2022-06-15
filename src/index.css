@@ -12,6 +12,7 @@ body {
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #23252c;
 }
 
 #root {
@@ -19,7 +20,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #23252c;
 }
 h1 {
   margin: 0;
